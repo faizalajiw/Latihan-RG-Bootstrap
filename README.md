@@ -1,5 +1,5 @@
 # Latihan-RG-Bootstrap
 
 ## Carousel Bootstrap Slider
-* See my demo :monocle_face: https://rg-mosque.netlify.app/
+* See my demo :monocle_face: https://littlerose.netlify.app/
 * Enjoy! :sunglasses:
